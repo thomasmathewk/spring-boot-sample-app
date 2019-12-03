@@ -1,2 +1,3 @@
+#Intellij specific files
 *.iml
 .idea/
